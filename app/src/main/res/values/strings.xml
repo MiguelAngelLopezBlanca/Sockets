@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sockets</string>
+    <string name="textview_titulo">Sockets</string>
+    <string name="textview_nombre">Nombre Usuario</string>
+    <string name="textView_mensaje">Mensaje:</string>
+    <string name="textView_titulo_chat">Chat</string>
+    <string name="button_enviar_usuario">Enviar Nombre</string>
+    <string name="button_enviar_mensaje">Enviar Mensaje</string>
+    <string name="item_users">Usuarios</string>
+    <string name="item_exit" />
+    <string name="dialog_confirm_exit">¿Seguro que quieres abandonar el chat?</string>
+    <string name="string_no">No</string>
+    <string name="string_yes">Si</string>
+</resources>
